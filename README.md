@@ -1,7 +1,7 @@
 # LSDFusion
 Code of LSDFusion:It is an infrared and visible light image fusion algorithm specifically designed for low-light environments.
 ## Tips:<br>
-Due to file size issues, the training set has been removed from the code and the MSRS dataset can be downloaded here: https://pan.baidu.com/s/18q_3IEHKZ48YBy2PzsOtRQ?pwd=MSRS
+Due to file size issues, the training set has been removed from the code and the MSRS dataset can be downloaded here:https://github.com/Linfeng-Tang/MSRS
 Place the downloaded training dataset under: MSRS/ path.
 
 ## To Train
