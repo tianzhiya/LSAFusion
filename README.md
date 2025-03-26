@@ -1,5 +1,5 @@
-# LSDFusion
-Code of LSDFusion:It is an infrared and visible light image fusion algorithm specifically designed for low-light environments.
+# LSAFusion
+Code of LSAFusion:It is an infrared and visible light image fusion algorithm specifically designed for low-light environments.
 ## Tips:<br>
 Due to file size issues, the training set has been removed from the code and the MSRS dataset can be downloaded here:https://github.com/Linfeng-Tang/MSRS
 Place the downloaded training dataset under: MSRS/ path.
@@ -23,8 +23,8 @@ The results of our fusion test on the LLVIP dataset, which you can download here
 
 If this work is helpful to you, please cite it as:
 ```
-@article{LSDFusion,
-  title={LSDFusion: A Semantics-Driven Infrared and Visible Image Fusion Algorithm for Low-Light Environments},
+@article{LSAFusion,
+  title={LSAFusion: A Semantically Aware Infrared and Visible Image Fusion Method for Low-Light Environments},
 author={Quanquan Xiao ,Haiyan jin,Haonan Su,etc},
 }
 ```
